@@ -1,0 +1,12 @@
+mine:
+  blog:
+    kotlin:
+      lab:
+        repository: map
+
+spring:
+  data:
+    mongodb:
+      host: localhost
+      port: 27017
+      database: course-mongo
