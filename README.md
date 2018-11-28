@@ -5,6 +5,6 @@ Major goals:
 2. Functional DSL WebFlux: CourseEmitter
 3. Reactive Rest Service: CourseEmitter
 4. High Order Functional Programming: StockDailyQuoteController
-5. Kotlin Concurrency - Coroutines: TODO
+5. Kotlin Concurrency - CoroutineController: to add more examples
 
 Swagger-ui: http://localhost:8080/swagger-ui.html 
